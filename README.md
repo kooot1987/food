@@ -1,1 +1,1 @@
-# food
+# food (without adaptation)
